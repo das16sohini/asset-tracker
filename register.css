@@ -1,0 +1,16 @@
+html{
+height: 100%;
+font-family: sans-serif;
+}
+body {
+  /* The image used */
+   //font-family: sans-serif;
+ background: linear-gradient(#141e30, #243b55, #141e30);
+  /* Full height */
+  height: 100%;
+  text-transform: uppercase;
+
+  /* Center and scale the image nicely */
+  color : white;
+}
+
